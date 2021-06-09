@@ -1,0 +1,11 @@
+[package]
+name = "rhos"
+version = "0.1.0"
+authors = ["Hermann-SW <hermann@stamm-wilbrandt.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ethnum = "1"
+fine_grained = "0.1.2"
